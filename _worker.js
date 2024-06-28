@@ -4,7 +4,7 @@ import { connect } from "cloudflare:sockets";
 let password = 'fadz'; 
 let sha224Password ;
 //设置伪装web
-let proxydomain = 'www.bing.com';
+let proxydomain = 'ngapaktunnelling.xyz';
 //设置proxyIP
 let proxyIP = '23.90.151.62';
 let RproxyIP = 'true';//设为true则强制使用订阅器内置的proxyIP

@@ -1,15 +1,15 @@
 // src/worker.js
 import { connect } from "cloudflare:sockets";
 // 设置明文密码
-let password = 'cacm'; 
+let password = 'fadz'; 
 let sha224Password ;
 //设置伪装web
 let proxydomain = 'www.bing.com';
 //设置proxyIP
-let proxyIP = 'proxyip.fxxk.dedyn.io';
+let proxyIP = '23.90.151.62';
 let RproxyIP = 'true';//设为true则强制使用订阅器内置的proxyIP
 //内置订阅器嵌套
-let sub = 'sub.xmm404.workers.dev';//订阅器
+let sub = 'tron.fadzvpnproject.workers.dev';//订阅器
 let subconverter = 'apiurl.v1.mk';//转换后端
 let subconfig = 'https://raw.githubusercontent.com/JustLagom/test/main/urltestconfig.ini';//配置文件config
 
